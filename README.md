@@ -7,10 +7,12 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
+-  I’m a brazilian front-end developer and QA
+<!--
 - 🔭 I’m a front-end developer with **REACT|JS|HTML|CSS**
 
 - And also do API and front-end automated tests with **POSTMAN|ROBOT FRAMEWORK**
-  
+  -->
 
 <h3 align="left">Languages and Tools:</h3>
 
